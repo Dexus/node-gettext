@@ -1,5 +1,7 @@
 # node-gettext
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Dexus/node-gettext.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://secure.travis-ci.org/alexanderwallin/node-gettext.png)](http://travis-ci.org/alexanderwallin/node-gettext)
 [![npm version](https://badge.fury.io/js/node-gettext.svg)](https://badge.fury.io/js/node-gettext)
 
